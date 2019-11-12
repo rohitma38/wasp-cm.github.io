@@ -41,4 +41,5 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 
 ## Workshop Materials
 Some resources which may prove useful for the workshop:
-* The "Topics and Slides" section on this page: https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/
+* The "Topics and Slides" section on this page: <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/</a>
+
