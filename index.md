@@ -15,6 +15,11 @@ Dept of EE, I.I.T Bombay
 * Tools for Computational Musicology   
 * Empirical Musicology for Indian Classical Genres  
 
+### Workshop Coordinator
+<a href="https://www.ee.iitb.ac.in/web/people/faculty/home/prao">Prof Preeti Rao</a>  
+Dept. of Electrical Engg., I.I.T. Bombay  
+E-mail: <a href="prao@ee.iitb.ac.in">prao@ee.iitb.ac.in</a>
+
 ### Organized by
 
 <img src="logos1.png" alt="" class="center" height="150"/> 
