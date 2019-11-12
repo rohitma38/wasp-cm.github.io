@@ -36,9 +36,10 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 ### Day 5
 * Dialog with Pandit Aneesh Pradhan
 * Presentations of MIR research in Indian music
-
+* Hindustani classical music concert
+<br/>
 
 ## Workshop Materials
-Here are some resources which we believe may prove useful for the workshop:
+Some resources which may prove useful for the workshop:
 * The "Topics and Slides" section on this page: https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/
 * 
