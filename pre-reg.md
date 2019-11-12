@@ -36,7 +36,7 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 ### Day 5
 * Dialog with Pandit Aneesh Pradhan
 * Presentations of MIR research in Indian music
-* Hindustani classical music concert
+<!--* Hindustani classical music concert-->
 <br/>
 
 ## Workshop Materials
