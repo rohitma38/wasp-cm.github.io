@@ -34,12 +34,13 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 * T3: Programming exercise to characterize a corpus
  
 ### Day 5
-* Dialog with Pandit Aneesh Pradhan
+* Dialog with <a href="https://aneeshpradhan.com/">Pandit Aneesh Pradhan</a>
 * Presentations of MIR research in Indian music
 <!--* Hindustani classical music concert-->
 <br/>
 
 ## Workshop Materials
 Some resources which may prove useful for the workshop:
-* The "Topics and Slides" section on this page: <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/</a>
+* Fundamentals of Music Processing(under "Topics and Slides") - <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/</a>
+* Computational Approaches for Analysis of Non-Western Music Traditions - <a href="https://www.upf.edu/web/mtg/non-western-music-tutorial">https://www.upf.edu/web/mtg/non-western-music-tutorial</a>
 
