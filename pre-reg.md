@@ -5,6 +5,11 @@ Participants are expected to have a strong background (3+ years of undergraduate
 **Space is limited. Please fill out the pre-registration form if interested, and we will get back to you with further instructions by September 15.**  
 Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gle/dLoJbC3Ljc5vBhgp8</a>  -->
 
+## Note to Participants
+Participants are requested to bring their own laptops, with the following software tools installed.
+* (to be updated)
+<br/><br/>
+
 ## Tentative Schedule
 (L = 1.5 hour lecture;  T = 3 hour tutorial session)
 
@@ -34,8 +39,8 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 * T3: Programming exercise to characterize a corpus
  
 ### Day 5
-* Dialog with <a href="https://aneeshpradhan.com/">Pandit Aneesh Pradhan</a>
-* Presentations of MIR research in Indian music
+* A Musician's Perspective: Dialog with <a href="https://aneeshpradhan.com/">Pandit Aneesh Pradhan</a>
+* Presentations of musicology and MIR research in Indian music
 <!--* Hindustani classical music concert-->
 <br/>
 
