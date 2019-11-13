@@ -3,7 +3,7 @@
 
 * <a href="https://www.audiolabs-erlangen.de/fau/professor/mueller">Prof. Meinard Muller</a>  
 Friedrich-Alexander Universität Erlangen-Nürnberg  
- <br/><br/>  
+ <br/>  
  <img src="https://www.dur.ac.uk/images/music/Staffmugshots/martin_clayton.jpg" alt="" height="150" width="110" align="right"/>
  <br/><br/><br/>
  
