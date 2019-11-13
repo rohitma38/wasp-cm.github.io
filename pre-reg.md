@@ -42,7 +42,7 @@ Participants are requested to bring their own laptops, with the following softwa
 * A Musician's Perspective: Dialog with <a href="https://aneeshpradhan.com/">Pandit Aneesh Pradhan</a>
 * Presentations of musicology and MIR research in Indian music
 <!--* Hindustani classical music concert-->
-<br/>
+<br/><br/>
 
 ## Workshop Materials
 Some resources which may prove useful for the workshop:
