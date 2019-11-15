@@ -24,8 +24,8 @@ E-mail: <a href="prao@ee.iitb.ac.in">prao@ee.iitb.ac.in</a>
 
 <img src="logos1.png" alt="" class="center" height="150"/> 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 ### Note - related upcoming workshop:
-* Musical Instrument Modeling Workshop at IIT Dharwad - https://sparc-iitdh.github.io/workshop/index.html
+* Musical Instrument Modeling Workshop at IIT Dharwad - <a href="https://sparc-iitdh.github.io/workshop/index.html">https://sparc-iitdh.github.io/workshop/index.html</a>
