@@ -49,3 +49,7 @@ Some resources which may prove useful for the workshop:
 * Fundamentals of Music Processing(under "Topics and Slides") - <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/</a>
 * Computational Approaches for Analysis of Non-Western Music Traditions - <a href="https://www.upf.edu/web/mtg/non-western-music-tutorial">https://www.upf.edu/web/mtg/non-western-music-tutorial</a>
 
+<br/>
+
+### Related upcoming workshop
+* Musical Instrument Modeling Workshop at IIT Dharwad - <a href="https://sparc-iitdh.github.io/workshop/index.html">https://sparc-iitdh.github.io/workshop/index.html</a>
