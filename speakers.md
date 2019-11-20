@@ -7,12 +7,12 @@ Friedrich-Alexander Universität Erlangen-Nürnberg
  <img src="https://www.dur.ac.uk/images/music/Staffmugshots/martin_clayton.jpg" alt="" height="150" width="110" align="right"/>
  <br/><br/><br/>
  
-* <a href="https://www.dur.ac.uk/music/staff/?id=8693">Prof Martin Clayton</a>  
+* <a href="https://www.dur.ac.uk/music/staff/?id=8693">Prof. Martin Clayton</a>  
 Department of Music, Durham University
  <br/><br/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Xavier_Serra_1%2C_Music_Hack_Day_Barcelona_2012.jpg" alt="" height="150" width="100" align="right"/>
  <br/><br/>  
  
-* <a href="https://www.upf.edu/web/xavier-serra">Prof Xavier Serra</a>  
+* <a href="https://www.upf.edu/web/xavier-serra">Prof. Xavier Serra</a>  
 Music Technology Group, UPF Barcelona  
 <br/><br/><br/> 
