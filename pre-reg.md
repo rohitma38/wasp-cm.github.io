@@ -7,10 +7,10 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 
 ## Note to Participants
 Participants are requested to bring their own laptops(along with a pair of earphones), with the following software tools installed.
-1. Miniconda and a required environment - follow all the steps outlined here: <a href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/B/B_GetStarted.html#Downloading-the-FMP-Notebooks">https://www.audiolabs-erlangen.de/resources/MIR/FMP/B/B_GetStarted.html#Downloading-the-FMP-Notebooks</a>. You will need to first download and extract the zipped file containing all the notebooks provided on that page.<br/>
+1. Miniconda and the required environment - follow all the steps outlined here: <a href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/B/B_GetStarted.html#Downloading-the-FMP-Notebooks">https://www.audiolabs-erlangen.de/resources/MIR/FMP/B/B_GetStarted.html#Downloading-the-FMP-Notebooks</a>. You will need to first download and extract the zipped file containing all the notebooks provided on that page.<br/>
 (**Note**: To run the commands provided on the page, Windows users can open the command prompt from Start -> Anaconda -> Anaconda Prompt(Miniconda), and Linux/Mac users can work with a regular terminal)
  
-<br/><br/>
+<br/>
 
 ## Tentative Schedule
 (L = 1.5 hour lecture;  T = 3 hour tutorial session)
