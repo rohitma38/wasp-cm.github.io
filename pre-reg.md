@@ -6,11 +6,14 @@ Participants are expected to have a strong background (3+ years of undergraduate
 Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gle/dLoJbC3Ljc5vBhgp8</a>  -->
 
 ## Note to Participants
-Participants are requested to bring their own laptops(along with a pair of earphones), with the following software tools installed.
+* Participants are requested to bring their own laptops(along with a pair of earphones), with the following software tools installed.
 1. Miniconda and a required environment - follow all the steps outlined here: <a href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/B/B_GetStarted.html#Downloading-the-FMP-Notebooks">https://www.audiolabs-erlangen.de/resources/MIR/FMP/B/B_GetStarted.html#Downloading-the-FMP-Notebooks</a>. You will need to first download and extract the zipped file containing all the notebooks provided on that page.<br/>
 (**Note**: To run the commands provided on the page, Windows users can open the command prompt from Start -> Anaconda -> Anaconda Prompt(Miniconda), and Linux/Mac users can work with a regular terminal)
 2. Docker and a required container - follow the instructions outlined here - [Docker installation](docker_instr.md). This additional installation is required to enable the use of some other tools that are not available on conda.
 <br/>
+
+* View/Download the detailed schedule here - [Schedule_full.pdf](Schedule_full.pdf)
+
 
 ## Tentative Schedule
 (L = 1.5 hour lecture;  T = 3 hour tutorial session)
