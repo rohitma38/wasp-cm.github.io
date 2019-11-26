@@ -12,7 +12,7 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 2. Docker and a required container - follow the instructions outlined here - [Docker installation](docker_instr.md). This additional installation is required to enable the use of some other tools that are not available on conda.
 <br/>
 
-* View/Download the detailed schedule here - [Schedule_full.pdf](Schedule_full.pdf)
+* View/Download the detailed schedule here - [Schedule.pdf](Schedule_full.pdf)
 
 
 ## Tentative Schedule
