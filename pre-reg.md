@@ -13,10 +13,9 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 <br/>
 
 
-## Tentative Schedule
+## Tentative Schedule ([Schedule.pdf](Schedule_full.pdf))
 (L = 1.5 hour lecture;  T = 3 hour tutorial session)
 
-#### View/Download the schedule pdf here - [Schedule.pdf](Schedule_full.pdf)
 
 ### Day 1
 * L1. Introduction to the Course
