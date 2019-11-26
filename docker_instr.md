@@ -26,4 +26,6 @@
 5. To access the session, open a web browser and paste the IP address and port to access the notebook, e.g., on Windows, ```192.168.99.100:8888```. You might have to switch ```192.168.99.100``` with your IP address, which is displayed when you run the docker quickstart terminal initially. On Linux, enter ```localhost:8888``` and if prompted for a password, enter *mir*.
 
 
-* **Note** If you are unable to or do not wish to install docker, it is all right. You can create a python notebook on Google Colab (needs a Google account) to do what you would have done using docker. We can help you set this up if need be.
+
+#### Note
+If you are unable to or do not wish to install docker, it is all right. You can create a python notebook on Google Colab (needs a Google account) to do what you would have done using docker. We can help you set this up if need be.
