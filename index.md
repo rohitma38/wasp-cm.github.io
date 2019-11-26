@@ -5,7 +5,9 @@ Computational Musicology is an interdisciplinary area involving the application 
 December 2-6, 2019
 
 ### Where?
-Dept of EE, I.I.T Bombay
+Jalvihar Guest House Seminar Hall
+2nd Floor
+I.I.T Bombay
 
 ### Topics
 * Content-based Music Retrieval  
