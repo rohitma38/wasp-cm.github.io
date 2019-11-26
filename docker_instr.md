@@ -1,7 +1,7 @@
 # Instructions for installing Docker and setting up the required container
 
 ## Windows users
-  1. Download Docker from <a href="https://docs.docker.com/docker-for-windows/install/">https://docs.docker.com/docker-for-windows/install/</a>. If you do not have Windows 10 Pro or Enterprise(Home), then download docker toolbox from <a href="https://docs.docker.com/toolbox/toolbox_install_windows/">https://docs.docker.com/toolbox/toolbox_install_windows/</a>
+  1. Download Docker from <a href="https://docs.docker.com/docker-for-windows/install/">https://docs.docker.com/docker-for-windows/install/</a>. If you do not have Windows 10 Pro or Enterprise, then download docker toolbox from <a href="https://docs.docker.com/toolbox/toolbox_install_windows/">https://docs.docker.com/toolbox/toolbox_install_windows/</a>
   2. Install Docker
    - Enable Virtualization in the BIOS menu - do not worry, this will not damage your system (read the docker toolbox installation page for more instructions)
    - Run the installer that you downloaded above and during installation, ensure that you install virtual box, and check the option 'Install Virtualbox with NDIS5 driver'
