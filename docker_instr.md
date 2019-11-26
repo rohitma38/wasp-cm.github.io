@@ -24,3 +24,6 @@
 3. Once the image is installed, download the docker repository from <a href="https://github.com/MTG/MIRCourse">https://github.com/MTG/MIRCourse</a> - click on the green button on the right side that says 'Clone or Download', then 'Download ZIP'
 4. Extract the zipped file to a folder. Change the directory to this extracted folder in the terminal (like you did earlier with cd) and run ```docker compose-up``` to start the container. This container starts a jupyter notebook session like the one earlier with conda in the first set of install instructions.
 5. To access the session, open a web browser and paste the IP address and port to access the notebook, e.g., on Windows, ```192.168.99.100:8888```. You might have to switch ```192.168.99.100``` with your IP address, which is displayed when you run the docker quickstart terminal initially. On Linux, enter ```localhost:8888``` and if prompted for a password, enter *mir*.
+
+
+* **Note** If you are unable to or do not wish to install docker, it is all right. You can create a python notebook on Google Colab (needs a Google account) to do what you would have done using docker. We can help you set this up if need be.
