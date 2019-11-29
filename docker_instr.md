@@ -11,6 +11,7 @@
   1. First uninstall older versions of Docker by running ```sudo apt-get remove docker docker-engine docker.io containerd runc``` in a terminal.
   2. Then follow the instructions under **Install using the repository** on this page: <a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">https://docs.docker.com/install/linux/docker-ce/ubuntu/</a>.
    - Here, once you finish running all the commands under 'SET UP THE REPOSITORY', only run commands 1, 2 and 4 under 'INSTALL DOCKER ENGINE - COMMUNITY'.
+  3. Finally, run this command to install another package 'docker-compose' that helps make sessions based on a specified configuration file - ```sudo apt-get install docker-compose```.
 
 ## Mac users
   1. Download and install docker from: <a href="https://docs.docker.com/docker-for-mac/install">https://docs.docker.com/docker-for-mac/install/</a> 
@@ -22,7 +23,7 @@
  - First change to the directory containing the .tar file by running ```cd <path-to-tar-file>``` in the terminal that you opened earlier (e.g., if you downloaded the .tar file into the Downloads folder, then run ```cd C:/Downloads```)
  - Now run ```docker load -i mir_docker.tar```. This will install the image.
 3. Once the image is installed, download the docker repository from <a href="https://github.com/MTG/MIRCourse">https://github.com/MTG/MIRCourse</a> - click on the green button on the right side that says 'Clone or Download', then 'Download ZIP'
-4. Extract the zipped file to a folder. Change the directory to this extracted folder in the terminal (like you did earlier with cd) and run ```docker compose-up``` to start the container. This container starts a jupyter notebook session like the one earlier with conda in the first set of install instructions.
+4. Extract the zipped file to a folder. Change the directory to this extracted folder in the terminal (like you did earlier with cd) and run ```docker-compose up``` to start the container. This container starts a jupyter notebook session like the one earlier with conda in the first set of install instructions.
 5. To access the session, open a web browser and paste the IP address and port to access the notebook, e.g., on Windows, ```192.168.99.100:8888```. You might have to switch ```192.168.99.100``` with your IP address, which is displayed when you run the docker quickstart terminal initially. On Linux, enter ```localhost:8888``` and if prompted for a password, enter *mir*.
 
 
