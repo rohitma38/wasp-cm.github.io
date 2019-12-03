@@ -21,7 +21,7 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 * L1. Introduction to Content-based Music Retrieval 
 * L2. Audio Features 
 * L3. Musicological perspective to Indian Music 
-* L4. Computational Musicology perspective to Indian Music - <a href="slides/l4.pdf">Slides</a>
+* L4. Computational Musicology perspective to Indian Music - <a href="slides/1-Computational-Musicology-and-Indian-Music.pdf.pdf">Slides</a>
 
 ### Day 2
 * L5. Selected Topics in MIR 
