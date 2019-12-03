@@ -13,34 +13,30 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 <br/>
 
 
-## Tentative Schedule
+## Schedule and slides
 ### For detailed timings, please refer to this document - [Schedule.pdf](Schedule_full.pdf)
 (L = 1.5 hour lecture;  T = 3 hour tutorial session)
 
-
 ### Day 1
-* L1. Introduction to the Course
-* L2. Introduction to Content-based Music Retrieval 
-* L3. Audio Features 
-* L4. Music Corpora and Data sets 
-
+* L1. Introduction to Content-based Music Retrieval 
+* L2. Audio Features 
+* L3. Musicological perspective to Indian Music 
+* L4. Computational Musicology perspective to Indian Music - <a href="slides/l4.pdf">Slides</a>
 
 ### Day 2
 * L5. Selected Topics in MIR 
-* L6. Python Programming for Audio Analyses
+* L6. Introduction to FMP notebooks
 * T1: Python Programming hands-on session
 
-
 ### Day 3
-* L7: Melody and Rhythm Analyses I  
-* L8: Melody and Rhythm Analyses II 
-* T2: Python programming hands-on session
-
+* L7: Melody and Rhythm Analyses
+* L8: Tools for Audio Analysis of Indian Music  
+* T2: Audio Analysis and Classification hands-on session
 
 ### Day 4
-* L9:  Audio Structure Analysis
-* L10:  Corpus Analyses 
-* T3: Programming exercise to characterize a corpus
+* L9: Structure Analysis for Indian Music
+* L10: Analyses of an Indian Music Corpus 
+* T3: Study of an Indian Music Corpus
  
 ### Day 5
 * A Musician's Perspective: Dialog with <a href="https://aneeshpradhan.com/">Pandit Aneesh Pradhan</a>
