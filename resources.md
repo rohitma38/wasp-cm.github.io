@@ -1,2 +1,2 @@
 ## Some audios for FMP exercises
-* <a href="audios/Mumbai_Course_resampled.zip">audios.zip</a>
+* <a href="https://drive.google.com/file/d/1An1WrFfrP2Iid1DAgQWMnpcSNeXrbnqA/view?usp=sharing">https://drive.google.com/file/d/1An1WrFfrP2Iid1DAgQWMnpcSNeXrbnqA/view?usp=sharing</a>
