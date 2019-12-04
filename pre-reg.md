@@ -20,7 +20,7 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 ### Day 1
 * L1. Introduction to Content-based Music Retrieval - <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">Slides</a> (Look under 'Topics and Slides')
 * L2. Audio Features - <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">Slides</a> (Look under 'Topics and Slides')
-* L3. Musicological perspective to Indian Music
+* L3. Musicological perspective to Indian Music - <a href="https://drive.google.com/open?id=1w-ar98c-sd86l1YMhJDeqXuVbVBOr7CC">Slides</a>
 * L4. Computational Musicology perspective to Indian Music - [Slides](slides/1-Computational-Musicology-and-Indian-Music.pdf)
 
 ### Day 2
