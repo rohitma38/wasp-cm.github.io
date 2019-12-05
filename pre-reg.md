@@ -35,7 +35,7 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 
 ### Day 4
 * L9: Structure Analysis for Indian Music
-* L10: Analyses of an Indian Music Corpus 
+* L10: Analyses of an Indian Music Corpus - <a href="https://drive.google.com/file/d/1kHvCOlulJoBPqL4rLV5LoljQ6PF-I7lV/view?usp=sharing">Slides</a>
 * T3: Study of an Indian Music Corpus
  
 ### Day 5
