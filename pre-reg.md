@@ -21,7 +21,7 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 * L1. Introduction to Content-based Music Retrieval - <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">Slides</a> (Look under 'Topics and Slides')
 * L2. Audio Features - <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">Slides</a> (Look under 'Topics and Slides')
 * L3. Musicological perspective to Indian Music - <a href="https://drive.google.com/open?id=1w-ar98c-sd86l1YMhJDeqXuVbVBOr7CC">Slides</a>
-* L4. Computational Musicology perspective to Indian Music - [Slides](slides/1-Computational-Musicology-and-Indian-Music.pdf)
+* L4. Computational Musicology perspective to Indian Music - <a href="https://drive.google.com/open?id=1E4i9dUxVCBB4U-fRaGtgTu0hlVMIKmgm">Slides</a>
 
 ### Day 2
 * L5. Selected Topics in MIR - <a href="https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/">Slides</a> (Look under 'Topics and Slides')
@@ -29,8 +29,8 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 * T1: Python Programming hands-on session
 
 ### Day 3
-* L7: Melody and Rhythm Analyses - [Slides](slides/2-Melody-and-Rhythm-Analysis.pdf)
-* L8: Tools for Audio Analysis of Indian Music - [Slides](slides/3-Tools-for-audio-analysis.pdf)
+* L7: Melody and Rhythm Analyses - <a href="https://drive.google.com/open?id=1dkfCdFgKqljMDSVCV-eL28iJSONmNOdv">Slides</a>
+* L8: Tools for Audio Analysis of Indian Music - <a href="https://drive.google.com/open?id=1pD-NwUP3I0EgkQdwfc8veDnAfOl6pZxd">Slides</a>
 * T2: Audio Analysis and Classification hands-on session
 
 ### Day 4
