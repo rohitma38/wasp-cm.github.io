@@ -34,7 +34,7 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 * T2: Audio Analysis and Classification hands-on session
 
 ### Day 4
-* L9: Structure Analysis for Indian Music
+* L9: Structure Analysis for Indian Music - <a href="https://drive.google.com/open?id=1ifBvVwbJ7upJttNdDa9JtrsmutxxyCAC">Slides</a>
 * L10: Analyses of an Indian Music Corpus - <a href="https://drive.google.com/file/d/1kHvCOlulJoBPqL4rLV5LoljQ6PF-I7lV/view?usp=sharing">Slides</a>
 * T3: Study of an Indian Music Corpus
  
